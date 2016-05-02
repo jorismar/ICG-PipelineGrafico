@@ -18,9 +18,15 @@
     <ClCompile Include="jb_texture.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="jb_object3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="jb_texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="jb_object3d.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
